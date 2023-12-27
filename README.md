@@ -21,6 +21,6 @@ pt_list, idx_patches = conformal_patch_gen(f'./Quadrangulation/EigenFunction{id}
 ```python
 degree_us,degree_vs,kv_us,kv_vs,ctrlpts_size_us,ctrlpts_size_vs,ctrlpts,weights=approximate_mp_nurbs_surf(pt_list, idx_patches,max_deg,ctrlpts_size)
 ```
-
+![What is this](david.png)
 
     
